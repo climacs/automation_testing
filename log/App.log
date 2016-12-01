@@ -1,0 +1,5 @@
+-----start time: Thu Dec 01 17:21:33 SGT 2016
+-----initialTestSetUp - referring to file testautomation.properties
+Chrome Driver initialized
+Opening the URL : http://52.53.252.81:8080/hello-world/
+Element found for the expression : By.xpath: //a[text()='Gmail']

@@ -1,0 +1,20 @@
+[
+  {
+    "source": "^User accesses the application$",
+    "steps": [
+      {
+        "name": "User accesses the application",
+        "aggregatedDurations": {
+          "average": 1.030191615,
+          "median": 1.030191615
+        },
+        "durations": [
+          {
+            "duration": 1.030191615,
+            "location": "ValidateUI.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]
